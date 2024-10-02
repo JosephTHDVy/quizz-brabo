@@ -8,8 +8,7 @@
 }
   
 body {
-    background-image: url(rosa.png);
-    background-repeat: repeat;
+    background-color: #66395c;
     color: var(--cor-texto);
     font-family: 'Inter', sans-serif;
     display: flex;
