@@ -57,21 +57,19 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "Ferramentas de busca que utilizam IA podem facilitar muito nosso processo de busca por informações. Agora imagine que você precisa participar de um debate sobre o quanto a IA impacta no trabalho do futuro. Qual posicionamento tomar?",
-        alternativas: [
+        enunciado: "Você ouve uma musica comecar a tocar, tem a sonoridade de duas musicas conhecidas, complete com a que você acha ser a certa.",
+               alternativas: [
             {
-                texto: "Defende a ideia de que a IA pode criar novas oportunidades de emprego e melhorar habilidades humanas.",
+                texto: "Eu não nasci gay...",
                 afirmacao: [
-                    "Vem impulsionando a inovação na área de IA e luta para abrir novos caminhos profissionais com IA.",
-                    "Participa ativamente do desenvolvimento de soluções criativas e na melhoria de processos em IA."
+                    "Você por fim reprova no teste e é instantaneamente finalizado pelos agentes do governo."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Me preocupo com as pessoas que perderão seus empregos para máquinas e defendem a importância de proteger os trabalhadores.",
+                texto: "At first i was afraid...",
                 afirmacao: [
-                    "Sua preocupação com as pessoas motivou a criar um grupo de estudos entre trabalhadores para discutir meios de utilização de IA de forma ética.",
-                    "Criou grupos de ética voltado para IA e busca ativamente reduzir as desigualdades geradas pela automação."
+                    "Mesmo receosos os agentes que te espionavam decidem te aprovar no teste e prolongar sua vida heterosexual"
                 ],
                 proxima: 6,
             },
