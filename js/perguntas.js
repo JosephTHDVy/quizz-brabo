@@ -64,14 +64,12 @@ export const perguntas = [
                 afirmacao: [
                     "Você por fim reprova no teste e é instantaneamente finalizado pelos agentes do governo."
                 ],
-                proxima: 5,
             },
             {
                 texto: "At first i was afraid...",
                 afirmacao: [
                     "Mesmo receosos os agentes que te espionavam decidem te aprovar no teste e prolongar sua vida heterosexual"
                 ],
-                proxima: 6,
             },
         ]
     },
